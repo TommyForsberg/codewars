@@ -9,4 +9,4 @@ Also, me not being able into PEP8.
 
 
 <h3>Current rank</h3>
-![current rank](https://www.codewars.com/users/Arkenoah/badges/large?logo=false)
+![current rank](https://user-images.githubusercontent.com/22146628/123754257-fae8a780-d8ba-11eb-81eb-bebcb44eb575.png)
